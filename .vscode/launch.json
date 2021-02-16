@@ -5,8 +5,8 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Example CMD",
-            "program": "example/bin/main.dart",
+            "name": "Dart",
+            "program": "hello.dart",
             "request": "launch",
             "type": "dart"
         }

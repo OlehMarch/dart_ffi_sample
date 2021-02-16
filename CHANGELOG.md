@@ -1,5 +1,5 @@
 # Changelog
 
-## [1.0.0]
+## 0.0.1
 
-* Add changes here
+* Added dart ffi sample
